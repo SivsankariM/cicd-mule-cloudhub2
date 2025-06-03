@@ -3,7 +3,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>fb2d5700-d501-4456-ae86-4f6245c5274d</groupId>
+	<groupId>7b469b2d-1ce5-4d44-9e67-440f1f89cc0f</groupId>
 	<artifactId>cicd-cloudhub2-java17</artifactId>
 	<version>1.0.1</version>
 	<packaging>mule-application</packaging>
